@@ -59,4 +59,17 @@ export const robots = [
 		username: 'nishubluitel',
 		email: 'nishubluitel@gmail.com'
 	},
+	{
+		id:11,
+		name: "Bikalpa Thapa",
+		username: 'bikalpathapa',
+		email: 'bikalpathapa@gmail.com'
+	},
+	{
+		id:12,
+		name: "Ashish Maharjan",
+		username: 'ashishmaharjan',
+		email: 'ashishmaharjan@gmail.com'
+	},
+
 ]
